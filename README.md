@@ -8,8 +8,8 @@ there are two dataset
 
 Based on this two dataset we have to find out
 
-## 1)The purchasing behavior of the cuostmers
+## 1)The purchasing behavior of the customers
 
 ## 2)planning what brand to stock in what layout , involve quantity 
 
-## 3)find out the type of cuostmers who purchase chips and their purchasing behavior within the region
+## 3)find out the type of customers who purchase chips and their purchasing behavior within the region
